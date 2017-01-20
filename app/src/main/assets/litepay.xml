@@ -1,0 +1,11 @@
+<litepay>
+
+    <dbname value="Drizzle_weather"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.example.drizzleweather.db.Province"/>
+        <mapping class="com.example.drizzleweather.db.City"/>
+        <mapping class="com.example.drizzleweather.db.County"/>
+    </list>
+
+</litepay>
